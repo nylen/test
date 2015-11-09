@@ -18,5 +18,3 @@
 > send
 < receive
 ```
-
-a
